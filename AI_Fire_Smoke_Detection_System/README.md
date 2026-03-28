@@ -1,6 +1,7 @@
 # AI Fire & Smoke Detection System
 # 🔥 AI Fire & Smoke Detection System
 
+
 An AI-powered real-time fire and smoke detection system built using Python, OpenCV, and YOLOv8.
 
 This project monitors live video feed (webcam or video file), detects fire or smoke events, captures evidence images, and logs detection timestamps.
